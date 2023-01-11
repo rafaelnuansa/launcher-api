@@ -42,3 +42,7 @@ dan isi
 ## Client Launcher with C++
 
 Untuk client launcher saya menggunakan bahasa pemrograman c++ berikut repo projectnya [Launcher With C++](https://github.com/rafaelnuansa/client-launcher) .
+
+
+## Database 
+Microsoft Server : LostGame
