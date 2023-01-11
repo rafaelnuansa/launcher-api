@@ -45,4 +45,4 @@ Untuk client launcher saya menggunakan bahasa pemrograman c++ berikut repo proje
 
 
 ## Database 
-Microsoft Server : LostGame
+Microsoft SQL Server : LostGame
